@@ -14,7 +14,7 @@ To run the model, call WatCAM_main.py in the root folder. Besides, the following
 For running the tool, only an installation of Python is required. For the development Python 2.7 was used, but probably the tool will run in more recent versions of Python also.
 
 For more background information on the tool and details on the methods and equations behind the tool, and for referencing the WatCAM tool, please use:
--	Buitink, J., J.E. Hunink, P. Droogers, P. Torfs. 2016. Large scale adaptation strategies to climate change in the water-sector: An overview of the water allocation model WatCAM. FutureWater Report 157. [download pdf](https://www.futurewater.nl/wp-content/uploads/2016/10/FW-report_WatCAM_JoostBuitink.pdf)
+-	Buitink, J., J.E. Hunink, P. Droogers, P. Torfs. 2016. Large scale adaptation strategies to climate change in the water-sector: An overview of the water allocation model WatCAM. [FutureWater Report 157](https://www.futurewater.nl/wp-content/uploads/2016/10/FW-report_WatCAM_JoostBuitink.pdf)
 
 A scientific paper has been submitted recently and will likely be published during summer 2019.
 
