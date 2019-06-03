@@ -23,3 +23,5 @@ The WatCAM tool was implemented in an interactive portal that allows running the
 For more information on the WatCAM tool, please contact Johannes Hunink (j.hunink@futurewater.es) 
 
 The Water and Climate Adaptation Model (WatCAM) was developed by FutureWater. FutureWater is a research and consulting organization that works throughout the world combining scientific research with practical solutions for water resources planning and management.  For more information on FutureWater please visit our [website](http://futurewater.eu/).
+
+Copyright (C) 2019 FutureWater. The Water and Climate Adaptation Model (WatCAM) is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
